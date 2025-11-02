@@ -73,12 +73,4 @@ O tamanho da fila/pilha e controlado por `MAX_SIZE` em `tetris_stack.h`. Para au
 3. Use 3 para reservar (move da fila para pilha) e 4 para recuperar.
 4. Teste 5 e 6 para trocas.
 
----
-
-Se quiser, eu posso:
-
-- Restaurar acentos e adicionar opcoes para configurar o console (UTF-8).
-- Adicionar um `Makefile` ou `tasks.json` do VS Code para compilar com um clique.
-- Adicionar testes unitarios simples para fila e pilha.
-
-Diga qual desses extras prefere e eu implemento.
+Autor {Bruno7180}
